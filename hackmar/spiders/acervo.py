@@ -16,6 +16,7 @@ class AcervoSpider(scrapy.Spider):
             yield scrapy.Request(self.item_url_template.format(number))
 
     def parse(self, response):
+        response = response.replace(body=response.body.decode('string_escape'))
         if self.exploratory:
             for field in response.css('table strong::text').extract():
                 yield {'field': field.strip()}
