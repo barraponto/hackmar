@@ -23,5 +23,6 @@ class AcervoSpider(scrapy.Spider):
         values = (response.css('.layer_meio td:nth-child(2)')
                   .xpath('string(.)')
                   .extract())
-        values['pergamus_id'] = response.url.split('=')[-1]
-        yield dict(zip(fields, values))
+        item = dict(zip(fields, values))
+        item['pergamus_id'] = response.url.split('=')[-1]
+        yield item
