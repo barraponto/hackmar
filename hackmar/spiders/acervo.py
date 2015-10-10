@@ -24,5 +24,8 @@ class AcervoSpider(scrapy.Spider):
                   .xpath('string(.)')
                   .extract())
         item = dict(zip(fields, values))
-        item['pergamus_id'] = response.url.split('=')[-1]
-        yield item
+
+        # skip empty items
+        if item.keys:
+            item['pergamus_id'] = response.url.split('=')[-1]
+            yield item
