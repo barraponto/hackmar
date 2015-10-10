@@ -21,6 +21,6 @@ class AcervoSpider(scrapy.Spider):
             for field in response.css('table strong::text').extract():
                 yield {'field': field.strip()}
         else:
-            fields = response.css('table strong::text')
-            values = response.xpath('//div[not(strong)]/text()')[1:len(fields)+1]
+            fields = response.css('table strong::text').extract()
+            values = response.xpath('//div[not(strong)]/text()').extract()[1:len(fields)+1]
             yield dict(zip(fields, values))
