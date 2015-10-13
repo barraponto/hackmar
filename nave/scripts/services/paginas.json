@@ -1,0 +1,47 @@
+{"revistas": [
+
+    {
+        "name": "codigo01",
+        "pagnum": "12",
+        "description": "código 01",
+        "numero": "1"
+     },
+   {
+        "name": "codigo02",
+        "pagnum": "36",
+        "description": "código 02",
+        "numero": "1"
+     },
+    {
+        "name": "codigo03",
+        "pagnum": "38",
+        "description": "código 03",
+        "numero": "1"
+     },
+    {
+        "name": "codigo04",
+        "pagnum": "37",
+        "description": "código 04",
+        "numero": "1"
+     },
+    {
+        "name": "codigo05",
+        "pagnum": "36",
+        "description": "código 05",
+        "numero": "1"
+     },
+    {
+        "name": "codigo07",
+        "pagnum": "36",
+        "description": "código 06",
+        "numero": "1"
+     },
+    {
+        "name": "codigo08",
+        "pagnum": "36",
+        "description": "código 07",
+        "numero": "1"
+     }
+
+    ]
+}

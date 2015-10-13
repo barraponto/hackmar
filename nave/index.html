@@ -1,0 +1,60 @@
+<html ng-app="app">
+
+<head>
+    
+<title>mar</title>
+<link rel="icon" href="css/img/favicon.png" />
+    <script src="lib/jQuery/dist/jquery.js"></script>
+    <script src="lib/hamsterjs/hamster.js"></script>
+    <script src="lib/jquery-ui-1.11.4.custom/jquery-ui.js"></script>
+     <script src="lib/jQuery/jquery.ui.touch-punch.min.js"></script>
+    <script src="lib/panzoom/panzoom.js"></script>
+    <script src="lib/panzoom/pointertouch.js"></script>
+    <script src="lib/panzoom/jquery.mousewheel.js"></script>
+    <link href="css/style.css" rel="stylesheet" type="text/css">
+    <link href="lib/jquery-ui-1.11.4.custom/jquery-ui.css">
+    <link rel="stylesheet" href="css/Font-Awesome/css/font-awesome.min.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    
+    
+</head>
+
+<body>
+    
+<section ng-controller="marController" ng-init=>
+
+<ng-include
+  src="'parts/indice.html'"
+  >
+...
+</ng-include>
+
+
+<!--<div id="apoio" ng-mouseleave="apoiocl='estreito'" ng-mouseenter="apoiocl='largo'" ng-class="{{apoiocl}}">
+   <div class="vertical apoio" >apoio</div> 
+    </div>    
+    -->
+    
+    
+     
+    
+    
+</section>
+
+    
+
+
+</body>
+
+<script src="lib/angular/angular.min.js"></script>
+<script src="lib/angular/angular-route.js"></script>
+<script src="lib/angular-mousewheel/mousewheel.js"></script>
+<script src="lib/angular/angular-ui-router.js"></script>
+<script src="lib/angular/angular-touch.min.js"></script>
+<script src="scripts/controllers/app.js"></script>
+<script src="scripts/controllers/indice.js"></script>
+
+
+
+</html>
+

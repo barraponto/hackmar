@@ -1,0 +1,365 @@
+{
+  "ok":true,
+  "1":{
+    "idno":"codigo01_0001",
+    "object_id":"1",
+    "type_id":"Image",
+    "display_label":"poema c\u00f3digo",
+    "description":"&lt;?xml version=\"1.0\" encoding=\"utf-8\"?&gt;\n\n\n",
+    "entities":"Augusto de Campos",
+    "collections":"codigo01"
+  },
+  "30":{
+    "idno":"codigo02_0002",
+    "object_id":"30",
+    "type_id":"Image",
+    "display_label":"poema c\u00f3digo",
+    "entities":"Augusto de Campos",
+    "collections":"codigo02"
+  },
+  "25":{
+    "idno":"codigo01_0020",
+    "object_id":"25",
+    "type_id":"Image",
+    "display_label":"JO\u00c3O GILBERTO ANTON WEBERN",
+    "description":"(imagem)",
+    "entities":"Augusto de Campos",
+    "collections":"codigo01",
+    "related_objects":"codigo01_0022;codigo01_0023;codigo01_0024;codigo01_0025;codigo01_0026"
+  },
+  "83":{
+    "idno":"codigo01_0038",
+    "object_id":"83",
+    "type_id":"Image",
+    "display_label":"poema c\u00f3digo"
+  },
+  "2":{
+    "idno":"codigo01_0002",
+    "object_id":"2",
+    "type_id":"Image",
+    "display_label":"ras gar",
+    "description":"<pre>\nerthos albino de souza<br \/><br \/>\nras gar<br \/><br \/>\ngar ras<br \/><br \/>\nras gar<br \/><br \/>\ngar ras<br \/><br \/>\nras gar<br \/><br \/>\ngar ras<br \/><br \/>\nCAPA\/CONTRACAPA AUGUSTO DE CAMPOS\n\n<\/pre>",
+    "entities":"Erthos Albino de Souza",
+    "collections":"codigo01"
+  },
+  "3":{
+    "idno":"codigo01_0003",
+    "object_id":"3",
+    "type_id":"Image",
+    "display_label":"SONETO ALPHANUM\u00c9RICO",
+    "entities":"Erthos Albino de Souza",
+    "collections":"codigo01"
+  },
+  "4":{
+    "idno":"codigo01_0004",
+    "object_id":"4",
+    "type_id":"Image",
+    "display_label":"HARPYA SEGLAVEM: TRAILER",
+    "description":"(para D\u00e9cio Pignatari)<br \/>\nAntonio Ris\u00e9rio Filho<br \/><br \/>\nRECONSTRAIR AS HERAS PANSADAS NO SEIO DO FUNDO OS \u00c2NOS V\u00cd\u00ad<br \/>\nVIDOS ADORLESCENTES DESDESTRUIR AS FALIDAS PRENSUDAS NO<br \/>\nBLANCO DAS FALHAS DEXTRAIR RE\u00cdZES DA HORTA CRIVADA ESCRA-<br \/>\nVAR AT\u00c9 A \u00daLT\u00cdM\u00c3 PATA DE VORAGEM TEXPOR OS V\u00cdNTIMOS DILA-<br \/>\nCERRAMENTOS EM MAGALHAS FRAGMINTOS EXPLOVIS\u00d5ES TECER O LA-<br \/>\nBARENTO DE S\u00daDITAS VAIAS DISESPARO CONTINDO\u00adSE NO ESP\u00daRO<br \/>\nDA SELA O SAL TRILHANDO NOS TALHADOS DAS CAXAS DESABSTRUIR<br \/>\nOS ALHOS ROUVIDOS BOCO RANIZ APARAR O TETO SOBRETRAIR AS<br \/>\nESTRALAS ENTRANHAS DA AB\u00d3BORA SILENTE PRAZER A LUZ DESVA-<br \/>\nLANDO PELAS ESFARPAS EXCETAR O L\u00cdNXRIO FLERA FELUZ VENTRE\u00ad<br \/>\nLA\u00c7ANDO\u00adME FULMAR OS C\u00c3ES RESVELANDO DUROS DENTES DE M\u00c1R-<br \/>\nMORE REVOLTER M\u00d4NICA A DOS ESPELHOS M\u00d3VEIS MULTIESPALHOS<br \/>\n(AZUL \u00c9 A C\u00d4R DOS TEUS CABELOS LOUROS) DOMANDO A PELE AN-<br \/>\nGOR\u00c1 VIA E A\u00c7OITE NO MEU LEITO QUE FARFALA MANTAR NO AZAL<br \/>\nOS GALOS DO AZUR CAMPAR UM MUSAICO DE FRESTAS E FARRAPOS<br \/>\nCOM A RASGARGANTA \u00c1BRIA DO DESCONEXIDO",
+    "entities":"D\u00e9cio Pignatari",
+    "collections":"codigo01"
+  },
+  "5":{
+    "idno":"codigo01_0005",
+    "object_id":"5",
+    "type_id":"Image",
+    "display_label":"PERDE-\u00adGANHA (poema optativo)",
+    "description":"ganhar a _____ perder a _____<br \/><br \/>\nperder a _____ ganhar a _____<br \/><br \/>\nperder o _____ ganhar o _____<br \/><br \/>\nganhar o _____ perder o _____<br \/><br \/>\nganhar a _____ perder o _____<br \/><br \/>\nperder o _____ ganhar o _____<br \/><br \/>\nperder a _____ ganhar o _____<br \/><br \/>\nganhar o _____ perder a _____",
+    "entities":"Augusto de Campos",
+    "collections":"codigo01"
+  },
+  "6":{
+    "idno":"codigo01_0006",
+    "object_id":"6",
+    "type_id":"Image",
+    "display_label":"HAROLDO DE CAMPOS",
+    "description":"HAROLDO DE CAMPOS<br \/>\n\u00a0",
+    "entities":"Antonio Ris\u00e9rio Filho;Haroldo de Campos",
+    "collections":"codigo01",
+    "related_objects":"codigo01_0007;codigo01_0008;codigo01_0009"
+  },
+  "8":{
+    "idno":"codigo01_0007",
+    "object_id":"8",
+    "type_id":"Image",
+    "display_label":"[BLANK]",
+    "description":"H. de Campos: O Lance de Dados de Mallarm\u00e9 ser\u00e1 talvez o manual de astron\u00e1utica do ano 2.000. Astrol\u00f3gon ton H\u00f3meron \u2013 Homero era astr\u00f3gogo, dizia Her\u00e1ciito, o Obscuro (com uma ponta de ironia)...<br \/><br \/>\nP: Eugen Gomringer disse que a poesia concreta est\u00e1 \"gen\u00e9tico\u00adhistoricamente\" morta. Mal conhe\u00e7o os poemas de Gomringer. Os que li, enquadram\u00adse na \"fase ortodoxa\" da poesia concreta. Estar\u00e1 Gomringer dizendo o \u00f3bvio, i. \u00e9, que\" a \"fase ortodoxa\" ficou pra tr\u00e1s? E, se assim for, n\u00e3o estar\u00e1, tamb\u00e9m, incorrendo no equ\u00edvoco generalizado de considerar a poesia concreta um \"ismo\"? Enfim, como voc\u00ea entende a frase?<br \/><br \/>\nH. de Campos: Gomringer, como os pintores da Escola de Zurique, sempre foi um artista preciso, por\u00e9m limitado. Sua import\u00e2ncia vem de sua precis\u00e3o, pelo menos numa primeira fase da poesia concreta. Os concretos brasileiros, barrocos por voca\u00e7\u00e3o, ao contr\u00e1rio, sempre tenderam para uma obra pl\u00farima e diversificada, jamais se contiveram, a n\u00e3o ser taticamente, nos lindes de uma ortodoxia. O concreto, ali\u00e1s, \u00e9 umponto de vista globalizante (sincr\u00f4nico) sobre a literatura, n\u00e3o um \"ismo\" a mais. Outra coisa \u00e9 observar que a poesia concreta, pela sua radicalidade de propostas e problemas, sequer come\u00e7ou a ser decodificada entre n\u00f3s, quanto mais assimilada... \" Des contemporains ne savent pas lire\" (Mallarm\u00e9). Ouver.<br \/><br \/>\nP: D\u00e9cio Pignatari, numa entrevista, disse que previa, para os pr\u00f3ximos cinquenta anos, \"um certo cessar das transforma\u00e7\u00f5es. E um longo per\u00edodo de redund\u00e2ncias mais ou menos aceitas e que formar\u00e3o a linguagem comum universal do fim do s\u00e9culo...\" \u2013 brincar de profeta \u00e9 um barato. Voc\u00ea topa?<br \/><br \/>\nH. de Campos: O Lance de Dados de Mallarm\u00e9 ser\u00e1 talvez o manual de astron\u00e1utica do ano 2.000. Astrol\u00f3gon ton H\u00f3meron \u2013 Homero era astr\u00f3logo, dizia Her\u00e1clito, o Obscuro (com uma ponta de ironia)...",
+    "entities":"Antonio Ris\u00e9rio Filho;Haroldo de Campos",
+    "collections":"codigo01",
+    "related_objects":"codigo01_0006"
+  },
+  "9":{
+    "idno":"codigo01_0008",
+    "object_id":"9",
+    "type_id":"Image",
+    "display_label":"[BLANK]",
+    "description":"P: Moacy Cirne escreveu, h\u00e1 algum tempo, que a diferen\u00e7a entre a poesia concreta e o poema\u00adprocesso estava no fato de a poesia concreta subordinar tudo \u00e0 estrutura, enquanto o poema\u00adprocesso subordinaria ao processo. Reconhecendo que esta distin\u00e7\u00e3o \u00e9 claramente insustent\u00e1vel, gostaria de saber qual a tua vis\u00e3o do poema-processo.<br \/><br \/>\nH. de Campos: O poema\u00adprocesso \u00e9 a doen\u00e7a infantil da poesia concreta.<br \/><br \/>\nP: Voc\u00ea acabou de escrever um livro sobre o Macuna\u00edma de M\u00e1rio de Andrade. A primeira op\u00e7\u00e3o feita pelas novas gera\u00e7\u00f5es diante da literatura brasileira \u00e9 entre M\u00e1rio e Oswald de Andrade. Por Oswald se chega \u00e0 poesia concreta, \u00e0 guerrilha art\u00edstica. Quando voc\u00ea escreveu o livro sobre M\u00e1rio, tinha essas coisas em mente? Eu gostaria que voc\u00ea falasse sobre isso porque eu li sua dedicat\u00f3ria pra Caetano no Morfologia do Macuna\u00edma.<br \/><br \/>\nH. de Campos: Na dedicat\u00f3ria ao Caetano est\u00e1: \"como Oswald devora M\u00e1rio\". Acho que deixei tudo muito claro no cap\u00edtulo inicial do meu Morfologia, \"Marca\u00e7\u00e3o do Percurso\": \u00e9 preciso re\u00adver M\u00e1rio de Andrade, na sua face radical \u2014 vale dizer, o Macuna\u00edma, deixando de lado os \"enxames de sentimentos inarticulados\" com que certa cr\u00edtica procura idealizar os aspectos mais amenos e menos interessantes de sua personalidade e de sua obra. Para esta re\u00advis\u00e3o em modo devorativo, foi necess\u00e1rio percorrer a via Oswald. Acho que o MIRAMAR, MACUNA\u00cdMA e SERAFIM formam uma trilogia escrita por dois autores, que se confraternizam n\u00e3o apenas pelo acidente dos sobrenomes, mas<br \/><br \/>\nno n\u00edvel objetivo desses textos fundamentais. \"M\u00e1rio escreveu a nossa Odisseia e criou<br \/><br \/>\nduma tacapada o her\u00f3i c\u00edclico e por cinquenta anos o idioma po\u00e9tico nacional\" (Oswald<br \/><br \/>\nre MACUNA\u00cdMA, Revista de Antropofagia, 1928).<br \/><br \/>\nP: Ultimamente, voc\u00ea est\u00e1 mais voltado para a cr\u00edtica e a teoria da literatura. Onde<br \/><br \/>\nandam as Gal\u00e1xias? Tem feito novos poemas?<br \/><br \/>\nH. de Campos: Ultimamente tenho publicado mais cr\u00edtica e teoria por raz\u00f5es editoriais<br \/><br \/>\n\u00f3bvias (j\u00e1 que a poesia entre n\u00f3s continua \"gratuita e clandestina\", \u2013 pelo menos aquela<br \/><br \/>\ncujo teor de informa\u00e7\u00e3o \u00e9 demasiado",
+    "entities":"Antonio Ris\u00e9rio Filho;Haroldo de Campos",
+    "collections":"codigo01",
+    "related_objects":"codigo01_0006"
+  },
+  "10":{
+    "idno":"codigo01_0009",
+    "object_id":"10",
+    "type_id":"Image",
+    "display_label":"[BLANK]",
+    "description":"para as redund\u00e2ncias medianeiras do consumo). Depois, os suplementos ou p\u00e1ginas liter\u00e1rias que andam por a\u00ed n\u00e3o me animam, muito pelo contr\u00e1rio... Mas a PERSPECTIVA, que lentamente vai come\u00e7ando a abrir-se tamb\u00e9m para a cria\u00e7\u00e3o \u2013 falo de minha cole\u00e7\u00e3o SIGNOS, que, espero, deslanche um pouco em 74, \u2014 j\u00e1 programou uma antologia de textos meus, XADREZ DE ESTRELAS. Um \"percurso textual\", desde o AUTO DO POSSESSO, de 1950, at\u00e9 os poemas in\u00e9ditos da s\u00e9rie LACUNAE. O livro encerra com uma sele\u00e7\u00e3o (um \"trailer\" em forma de pr\u00e9-antologia) das GAL\u00c1XIAS, nas quais continuo a trabalhar. As GAL\u00c1XIAS acabaram confundindo-se um pouco (ou muito) com minha vida e viagens, viraram um bio-texto em p\u00e9riplo (como pensava talvez o M\u00e1rio Faustino, do seu Livro que ficou em fragmentos; s\u00f3 que esse amigo inesquec\u00edvel, raro artes\u00e3o, ainda estava vinculado a uma ideia reguladora de \"verso\"). Eu trabalho diretamente por \"epifanias\", por \"blocos\" de fragmentos-eventos, que se dispersam e se auto-pontuam: concre\u00e7\u00f5es (da\u00ed a rela\u00e7\u00e3o dessa \"prosa\" com as t\u00e9cnicas da \"poesia concreta\"). Meu canteiro de trabalho ainda est\u00e1 aberto: in progress. N\u00e3o sei quando terminarei as GAL\u00c1XIAS. N\u00e3o estou hipnotizado nem por uma data nem por um n\u00famero. Prossigo (pro-e-con-sequente, espero).<br \/>\nP: D\u00e9cio Pignatari pintou com um novo saque, fant\u00e1stico, na minha opini\u00e3o: \"batismo &amp; retomada\" do surpreendente m\u00e9todo que Paul Val\u00e9ry extraiu de Leonardo da Vinci: o m\u00e9todo heur\u00edstico-semi\u00f3tico. Como voc\u00ea v\u00ea o panorama da cr\u00edtica atual e, dentro dele, o m\u00e9todo Val\u00e9ry \u2013 da Vinci \u2013 Peirce \u2013 Pignatari?<br \/>\nH. de Campos: Vou falar de outra coisa, talvez falando do mesmo (desde Pound, para n\u00f3s, o m\u00e9todo da cr\u00edtica \u00e9 heur\u00edstico: ideogr\u00e2mico, anal\u00f3gico). Resumi, h\u00e1 pouco, numa das minhas aulas, numa equa\u00e7\u00e3o de complementaridades, o que me parece a situa\u00e7\u00e3o problem\u00e1tica da cr\u00edtica liter\u00e1ria, hoje, sob o influxo da lingu\u00edstica (s\u00e9miologie saussuriana) e da semi\u00f3tica (peirciana): Saussure est\u00e1 para Peirce como a teoria dos anagramas (que derroga a arbitrariedade do signo e a linearidade do significante, no campo da poesia) est\u00e1 para a teoria dos diagramas (a linguagem como um \u201c\u00edcone de rela\u00e7\u00f5es\"). E ainda, se quisermos convocar uma outra contribui\u00e7\u00e3o fundamental \u00e0 po\u00e9tica para o mesmo \u00e2mbito de converg\u00eancias: E como para ambos est\u00e3o Fenollosa\/Pound com a sua teoria do ideograma (m\u00e9todo por excel\u00eancia da poesia).<br \/><br \/>\nHAROLDO DE CAMPOS<br \/>\nem entrevista a Antonio Riserio Filho<br \/>\n\u00a0",
+    "entities":"Antonio Ris\u00e9rio Filho;Haroldo de Campos",
+    "collections":"codigo01",
+    "related_objects":"codigo01_0006"
+  },
+  "11":{
+    "idno":"codigo01_0010",
+    "object_id":"11",
+    "type_id":"Image",
+    "display_label":"Jacentes!",
+    "description":"d\u00e9cio pignatari<br \/>\njacentes!<br \/>\n(foto da Gal Costa)",
+    "entities":"D\u00e9cio Pignatari",
+    "collections":"codigo01",
+    "related_objects":"codigo01_0011;codigo01_0012"
+  },
+  "13":{
+    "idno":"codigo01_0011",
+    "object_id":"13",
+    "type_id":"Image",
+    "display_label":"[BLANK]",
+    "description":"<br \/>\nJAZO EM PEDRA, OS LAPIDARES DRAPOS VIGIANDOS NO HIPO\u00a0<br \/>\nGEU-TUMBA DAS L\u00caLOAS TARQU\u00cdNIAS ONDE SE MENT\u00c9M ACE\u00a0<br \/>\nSA A VELHINHA DOS ABELORDOS, DIVISO: \/ HIL\u00c1RIA! ... LA\u00a0<br \/>\nMADRE L\u00cdNGUA! \u2026 GRETA GAL, A DOS BELOS CAL\u00c1BIOS, \u00c0\u00a0<br \/>\nETRUSCA, SOB OS PANOS ABRE OS JOELHOS CARA A CARA,\u00a0<br \/>\nUM SAL, UMA DAMA-DA-NOITE, UM MIJO, LA QUEUE DU PAON\u00a0<br \/>\nDANS MA LANGUE, DIRIA L'AUTRE CON \u2026 HIL\u00c1RIA PRIMAV\u00a0<br \/>\nERA, QUE CHEIRO BOM SUBAQUI, SUBILA ... \/ A CARNINHA\u00a0<br \/>\nNA PEDRA: \u00d4I! \/ QUE FRASES E CUMAS POR ESTAS SUBANDAS\u00a0<br \/>\nE SUBUNDAS? \/ H\u00c1 MUITO DE RE PENTE PINTEI POR RAQUI,\u00a0<br \/>\nDE REF\u00c9M, ME FERREI NA GALGANTA, UMA GROUPIE, UM\u00a0<br \/>\nCRUPE, DE QUARTANTENA, S\u00d3 FALO POR BAIXO \/ VAMOS F\u00a0<br \/>\nAZER AS CONTAS DE COMER E DAN\u00c7AR NA PAREDE: O QUE\u00a0<br \/>\nVAI SER? HAM'N'LEGGS \/ E O QUE VOC\u00ca TE VAI RESSER QUA\u00a0<br \/>\nNDO DESCRESCER? \/ N\u00c3O FOSSA P\u00caLO NOME, MIGNON MABEL\u00a0<br \/>\nGARRISON, JE SUIS TITANIA! OU DIANA DURBIN \/ E COMEMOS\u00a0<br \/>\nV\u00c3OS OS MENINOS GRAALCINHA? \/ APRENDEM AMARALINHA\u00a0<br \/>\nNA BARRA E S\u00d3 CHEGAM AO SOL DEPOIS DE VINTE MALHAS \/\u00a0<br \/>\nE O LOIRO DO PIAU\u00cd, FACHADA QUE N\u00c3O SE ESPIANTA, S\u00d3\u00a0<br \/>\nRIS\u00c9RIO TRISTE NA PELE FURADINHA? \/ N\u00c3O TEVE DESTEMP\u00a0<br \/>\nO NEM DESTAMPO DE EMBORCAR NA NAVILOUCA, ABRIU O\u00a0<br \/>\nESCAPAMENTO, PUXOU O CARRO PARA AL\u00c9M DA VIA, DESTR\u00a0<br \/>\nETECEU-SE, DESTRIMANCHOU-SE, VOLENCHEU-SE \/ ESCRUTA\u00a0<br \/>\nR-TE \u00c9 DIREITO MAS D\u00d3I, VOU DESCANSARMOS UM ROUCO:\u00a0<br \/>\nDESCONTA UMA DESGRACINHA \/ E ELA RINDA SIBILINDA C\u00a0<br \/>\nOMO LINGUETA NA BAINHA, FAL\u00c1BIOS: E, ELE e ELE me tresfal\u00a0<br \/>\nou por tr\u00e1s: LEL\u00c9 da cuca LEL\u00c9 da cuca LEL\u00c9 da cuca: L\u00c9\u2026 L\u00c9\u2026",
+    "entities":"D\u00e9cio Pignatari",
+    "collections":"codigo01",
+    "related_objects":"codigo01_0010"
+  },
+  "14":{
+    "idno":"codigo01_0012",
+    "object_id":"14",
+    "type_id":"Image",
+    "display_label":"[BLANK]",
+    "description":"L\u00c9...: \u00c9! \u00c9! E! \/ ISTO, RIA, LEGAL, MAS N\u00c3O TEM MORAL? \/\u00a0<br \/>\nTEM: O BURACO \u00c9 FUNDO ACABOU-SE IMUNDO \/ ELA DOU\u00a0<br \/>\nGALGALADAS, FUNGO O NARIZ TRISTESO, OLYMPIA-SE NO\u00a0<br \/>\nTRICL\u00cdNIO \/ D\u00d3I MEXER-ME ALGEGAMADA COMO UMA ARTE \/\u00a0<br \/>\nEXPERIMENTA AQUELA DA NEGRATA RO AZ DO HOLAND\u00caS,\u00a0<br \/>\nMEIAS BRANCAS AT\u00c9 MEIAS COXAS, TODO PINCEL EM LINHAS\u00a0<br \/>\nTR\u00caMULAS NAS CARNES DO AR, DANDO O QUE MAIS TEM DE\u00a0<br \/>\nDENTRO COMO SOCO PELUDO, OS BICOS DOS SEIOS BOCAS\u00a0<br \/>\nSACANAS, NEGRA HERIDA NOSTALGICA DE TOROS... E COM\u00a0<br \/>\nO VOC\u00ca TALA BEM \u00c0 BOCA PEQUENA... OU AQUELA DO NON\u00a0<br \/>\nCOURBET, QUATRO PEITOS A PEITOS, MONTANHAS BRABAS\u00a0<br \/>\nDE COXAS DORMINDO SEUS BURACOS, AS DUAS CONTINHAS\u00a0<br \/>\nDE P\u00c9ROLAS DESFIANDAS ROLANDAS DO COPO \u00c0 COLCHA O\u00a0<br \/>\nNDE EST\u00c1 A COISA ENORME COMEMSUMADA\u2026 MAS CHEGA\u00a0<br \/>\nDE PINUPLITERALMENTATURA\u2026 CANTA UM CONTO DE FAD\u00a0<br \/>\nAS, CONTA UM CANTO DE FADOS \/ ORA UMA VOZ UM RUI QUE\u00a0<br \/>\nN\u00c3O TINHA FALHAS. UM DIA, SOPRANA, A S\u00d3BRIA, ESTAVA\u00a0<br \/>\nFAZENDA UM TRAPALHO DE AGUIA, BICOU-SE NA PINTA DO\u00a0<br \/>\nDADO E SAIU MANGUE. FOZ UM DESEJO , MAS N\u00c3O CANTOU\u00a0<br \/>\nPRO RUI, QUE LHE DEU UMA BRONCA DE NOVE E N\u00c3O QUIS\u00a0<br \/>\nCABER MAIS DELA \/ ELA ARREGANHAMOS TANTO TANTAS\u00a0<br \/>\nVEZES AS GENGIVAGINHAS \u2013\u00a0<br \/>\nLRRGNHMSTNTTNTSVZSSGNGVGNHS \u2013 QUE QUASE NOS ENG\u00a0<br \/>\nASGAMOS NO VINHO SALIVAR, AT\u00c9 QUE VEIO UMA SAUDADE,\u00a0<br \/>\nVIREI A CABE\u00c7A, SENTI NA TONSURA OS PENTES DOS SEUS\u00a0<br \/>\nCABELOS QUENTES MOLHADOS, ME LEMBRAMOS DO TEMPO\u00a0<br \/>\nEM QUE RIVEDEREIS AS OUTRAS ESTRELAS.",
+    "entities":"D\u00e9cio Pignatari",
+    "collections":"codigo01",
+    "related_objects":"codigo01_0010"
+  },
+  "15":{
+    "idno":"codigo01_0013",
+    "object_id":"15",
+    "type_id":"Image",
+    "display_label":"VAI e VEM n\u00ba 3",
+    "description":"<br \/>\ntoda regra tem exce\u00e7\u00e3o<br \/><br \/>\nesta regra tem exce\u00e7\u00e3o nem toda regra tem exce\u00e7\u00e3o<br \/><br \/>\nnem esta regra tem exce\u00e7\u00e3o",
+    "entities":"Jos\u00e9 Lino Grunewald",
+    "collections":"codigo01"
+  },
+  "16":{
+    "idno":"codigo01_0014",
+    "object_id":"16",
+    "type_id":"Image",
+    "display_label":"antonio ris\u00e9rio filho",
+    "description":"nua nau<br \/>\nune reune<br \/>\nstyx<br \/>\nalgas albas<br \/>\nhoras ouros<br \/>\nstyx<br \/>\nreune une<br \/>\n\u00e1guas asas<br \/>\nheras eras<br \/>\nstyx<br \/>\nune reune<br \/>\nalmas an\u00e9is<br \/>\nhalos elos<br \/>\nstyx<br \/>\nreune une<br \/>\nnua nau",
+    "entities":"Antonio Ris\u00e9rio Filho",
+    "collections":"codigo01"
+  },
+  "17":{
+    "idno":"codigo01_0015",
+    "object_id":"17",
+    "type_id":"Image",
+    "display_label":"A MEDIDA DO HOMEM\n",
+    "description":"(a leitura desta pe\u00e7a deve ser acompanhada<br \/>\nde proje\u00e7\u00e3o de slides apropriados).<br \/><br \/>\nPersonagens:<br \/><br \/>\nMarujeiro da Lua<br \/>\nInvestigador Humanista<br \/>\nAgente-Mor<br \/>\nAgente Loira Babalorix\u00e1 de Umbanda<br \/>\ne a\u00a0<br \/>\nMaquininha<br \/><br \/>\nSem testemunhas<br \/><br \/>\nAgente-Mor: N\u00e3o me d\u00f3i aplicar a maquini-<br \/>\nnha em voc\u00ea. Fui testado diversas vezes, da\u00a0<br \/>\nmesma forma, no curso anti-guerrilha.\u00a0<br \/>\nVoc\u00ea n\u00e3o existe \u2013 \u00e9 um n\u00famero pra mim.\u00a0<br \/>\nCom mais algumas viradas na maquininha\u00a0<br \/>\nvoc\u00ea revela at\u00e9 o que n\u00e3o sabe.\u00a0<br \/>\nAgente Loira Babalorix\u00e1 de Umbanda: 7\u00a0<br \/>\nminutos<br \/>\nMarujeiro da Lua: N\u00e3o ME sinto nem sou\u00a0<br \/>\nfeixe de sentidos. Sou um monte de carne.\u00a0<br \/>\nN\u00e3o tenho nada pra revelar.\u00a0<br \/>\nAgente Loira Babalorix\u00e1 de Umbanda: 12\u00a0<br \/>\nminutos<br \/>\nAgente-Mor\u00a0 pra\u00a0 Agente\u00a0 Humanista: Au-<br \/>\nmenta a descarga. Descarrega no saco.\u00a0<br \/>\nAgente-Mor pra Agente Humanista: Acelera\u00a0<br \/>\na maquininha. A todo vapor.\u00a0<br \/>\nMarujeiro da Lua (virando-se para o perso-<br \/>\nnagem intitulado INVESTIGADOR HU-<br \/>\nMANISTA): N\u00c3O FINJA\u00a0<br \/>\n(AGENTE LOIRA BABALORIX\u00c1 DE\u00a0<br \/>\nUMBANDA \u00e9 um personagem anotador das\u00a0<br \/>\nrevela\u00e7\u00f5es poss\u00edveis de ocorrer \u2013 uma<br \/>\nscript girl \u2013 e faz a minutagem da opera-<br \/>\n\u00e7\u00e3o)<br \/>\nAgente-Mor: O corpo dele est\u00e1 bem suado\u00a0<br \/>\n\u2013 agora despeje o balde d\u00e1gua encima pra\u00a0<br \/>\ncorrente pegar melhor.\u00a0<br \/>\nAgente Loira Babalorix\u00e1 de Umbanda: 26\u00a0<br \/>\nminutos<br \/>\nAgente-Mor: Apresento o meu advogado\u00a0<br \/>\nDr. Smith Wesson calibre 3 oit\u00e3o.\u00a0<br \/>\nMarujeiro da Lua (com ufanismo revista\u00a0<br \/>\ntexto \u2013 FA \u2013 TAL \u2013): Me sinto possuidor\u00a0<br \/>\ndalguma coisa INDESTRUT\u00cdVEL dentro\u00a0<br \/>\nde mim<br \/>\nA\u00c7\u00c3O: Marujeiro da Lua \u00e9 desamarrado da\u00a0<br \/>\nvara\/ colocado no ch\u00e3o donde n\u00e3o conse-<br \/>\ngue se levantar\/ seus p\u00e9s formigam\/ tenta se\u00a0<br \/>\nlevantar\/ sente que vai desmaiar\/ se susten-<br \/>\nta\/ encaminha-se at\u00e9 a frente diz a supra\u00a0<br \/>\n\u00faltima deixa do personagem Marujeiro da\u00a0<br \/>\nLua e FIM<br \/>\nAVISO AOS SRS. ESPECTADORES:<br \/>\n\"A Medida do Homem\" n\u00e3o pode fugir a este<br \/>\nfinal idealista em homenagem aos av\u00f3s<br \/>\nClaudel-Zdanov.<br \/>\nNesta cidade fundada por abnegados jesu\u00edtas,<br \/>\nS\u00e3o Paulo novembro 72<br \/>\nDelegacia do 4\u00ba Distrito<br \/><br \/>\nSem testemunhas<br \/>\nWALYSAILORMOON",
+    "entities":"Waly Salom\u00e3o",
+    "collections":"codigo01"
+  },
+  "18":{
+    "idno":"codigo01_0016",
+    "object_id":"18",
+    "type_id":"Image",
+    "display_label":"ENTREVISTA\n\nRUFO HERRERA\n\n",
+    "description":"REITORIA...<br \/>\n\u2013 A depend\u00eancia de institui\u00e7\u00f5es \u00e9 limitadora. Elas s\u00e3o uma esp\u00e9cie de pai; ajudam materialmente, mas limitam muito. Hoje, a gente v\u00ea indiv\u00edduos que s\u00f3 funcionam em fun\u00e7\u00e3o da institui\u00e7\u00e3o. Ent\u00e3o, a gente come\u00e7a a questionar a validez da institui\u00e7\u00e3o, a criar um trabalho paralelo, marginal, que resulta sempre mais interessante. Um trabalho desamparado, mas criativo. A institui\u00e7\u00e3o exige coisas \"de acordo\", coisas que \"n\u00e3o venham ao encontro\",\u00a0e um trabalho marginal \u00e9 mais livre.<br \/><br \/>\n\u2013 A depend\u00eancia de institui\u00e7\u00f5es \u00e9 limitadora. Elas s\u00e3o uma esp\u00e9cie de pai; ajudam materialmente, mas limitam muito. Hoje, a gente v\u00ea indiv\u00edduos que s\u00f3 funcionam em fun\u00e7\u00e3o da institui\u00e7\u00e3o. Ent\u00e3o, a gente come\u00e7a a questionar a validez da institui\u00e7\u00e3o, a criar um trabalho paralelo, marginal, que resulta sempre mais interessante. Um trabalho desamparado, mas criativo. A institui\u00e7\u00e3o exige coisas \"de acordo\", coisas que \"n\u00e3o venham ao encontro\",\u00a0e um trabalho marginal \u00e9 mais livre.",
+    "entities":"Rufo Herrera Onirak",
+    "collections":"codigo01",
+    "related_objects":"codigo01_0018"
+  },
+  "20":{
+    "idno":"codigo01_0017",
+    "object_id":"20",
+    "type_id":"Image",
+    "display_label":"[BLANK]",
+    "description":"ONIRAK...<br \/>\n\u2013 \u201cOnirak\" nasceu junto com o \"Octeto\". Eu comecei a elaborar um trabalho para ser desenvolvido pelo \"Octeto\". Juntar um m\u00fasico, um dan\u00e7arino, um core\u00f3grafo, um cineasta, e trabalhar juntos. Eu precisava chegar a um trabalho mais apurado, mais integrado com outras artes, porque hoje a gente deve lan\u00e7ar m\u00e3o de v\u00e1rios recursos expressivos, artes integradas, novas linguagens. Tenho feito isso desde \"Ant\u00edstrofe\" \u2013 convidei artistas de v\u00e1rios g\u00eaneros para trabalhar, dentro de um esquema elaborado por mim, com a maior liberdade poss\u00edvel. \"Ant\u00edstrofe\" tinha um roteiro com certos elementos estruturais, o resto n\u00e3o era fixo, ia se formando no processo. Mas o m\u00fasico, por exemplo, entendia apenas a sua parte. O elemento de express\u00e3o corporal s\u00f3 cuidava de sua parte, etc. Eu queria aprofundar mais o trabalho. Precisava reduzir o n\u00famero de pessoas, e intensificar mais. A\u00ed nasceu o \"Octeto\", e come\u00e7amos a buscar uma express\u00e3o integrada.<br \/>\n\u2013 Comecei a produzir material para o \"Octeto\" trabalhar. Se discutia, se experimentava o material. Surgiram problemas, como o de determinada estrutura sonora precisar ser interpretada por um movimento. Bem, quando se aplicava o movimento, a parte sonora ca\u00eda. Quando a parte sonora estava bem, ca\u00eda o movimento. E a gente come\u00e7ou a trabalhar em t\u00e9cnica de movimento, t\u00e9cnica vocal e se discutia o problema visual. Problemas de dan\u00e7a, m\u00fasica, artes pl\u00e1sticas \u2013 artes integradas. O m\u00fasico ficava sabendo porque determinada solu\u00e7\u00e3o visual era esta e n\u00e3o outra, etc. Em certo momento, comecei a conceber a organiza\u00e7\u00e3o de \"Onirak\". Fui criando uma estrutura aberta, e propondo alguns pontos fixos nessa estrutura. A partir da discuss\u00e3o, os pontos iam sendo introduzidos. A\u00ed j\u00e1 pens\u00e1vamos em apresentar o trabalho ao p\u00fablico.<br \/>\n\u2013 N\u00f3s trabalhamos muito para dominar os materiais dessa estrutura. O espont\u00e2neo se d\u00e1 de duas formas. Ou \u00e9 o acaso, ou \u00e9 o resultado de um processo, uma disciplina. Eu escolhi o caminho da disciplina. Depois, comecei a elaborar a partitura, o desenho gr\u00e1fico do que estava acontecendo. A partitura \u00e9 o reflexo de um est\u00e1gio do trabalho. Com o desenvolvimento desse trabalho, muitos pontos se alteraram. Integramos mais elementos, como a parte de cinema, que \u00e9 uma esp\u00e9cie de cen\u00e1rio m\u00f3vel, din\u00e2mico, elaborado sobre a estrutura da pe\u00e7a, que funcionava como ponto de partida. A parte espacial depende das condi\u00e7\u00f5es do local em que a gente for se apresentar.<br \/>\n\u2013 A gente queria que o p\u00fablico participasse ativamente, e tudo foi planejado em fun\u00e7\u00e3o dessa participa\u00e7\u00e3o. A estrutura n\u00e3o era linear, n\u00e3o havia uma est\u00f3ria. Havia o personagem, mas ele era apenas um elemento, um est\u00edmulo, para que as coisas acontecessem. O resultado foi satisfat\u00f3rio. Fizemos tr\u00eas apresenta\u00e7\u00f5es em S\u00e3o Paulo e aconteceu exatamente o previsto. No final de cada apresenta\u00e7\u00e3o, a gente come\u00e7ou a dar elementos ao p\u00fablico, e foi passando do palco pra plat\u00e9ia.\u00a0",
+    "entities":"Rufo Herrera Onirak",
+    "collections":"codigo01"
+  },
+  "22":{
+    "idno":"codigo01_0019",
+    "object_id":"22",
+    "type_id":"Image",
+    "display_label":"AND\/OR\n",
+    "description":"<br \/>\nAND\/OR<br \/><br \/>\nAND\/OR<br \/><br \/>\nANDROGYNOUS",
+    "entities":"Erthos Albino de Souza",
+    "collections":"codigo01"
+  },
+  "24":{
+    "idno":"codigo01_0018",
+    "object_id":"24",
+    "type_id":"Image",
+    "display_label":"[BLANK]",
+    "description":"cantar um un\u00edssono que a gente dava, e ia improvisando. Eu passava um un\u00edssono pra voc\u00ea, voc\u00ea pra ele, etc., e em poucos minutos a plateia inteira estava cantando. Ent\u00e3o, a gente distribu\u00eda flautas de bambu, que s\u00e3o muito simples, qualquer um tira um som. Os que receberam flautas tiravam sons e a plateia acompanhava. Passaram do un\u00edssono para outro som. A plateia inteira improvisando, cantando, era aquela massa sonora, acordes incr\u00edveis. Eu pensei que quando o filme acabasse ia acabar o improviso, mas o filme acabou, o palco iluminado, a gente no meio do p\u00fablico, e o improviso continuou. A mais longa improvisa\u00e7\u00e3o que eu j\u00e1 vi. Quando acabou, come\u00e7aram os papos: grupos conversando sobre o acontecimento. Nas tr\u00eas noites, os funcion\u00e1rios nos expulsaram para fechar o teatro. Apagaram as luzes, fizeram grosserias, enxotaram o p\u00fablico. Eu fiquei retado, mas o resultado foi satisfat\u00f3rio.<br \/>\n\u2013 Na primeira noite, a gente prop\u00f4s um ensaio, quer dizer, n\u00e3o era bem um ensaio, era a apresenta\u00e7\u00e3o do material, um acontecimento. Eu queria um entrosamento com o p\u00fablico e teve gente que se ofendeu, protestou, disse que tinha pago ingresso, que aquilo era frescura, etc. N\u00f3s est\u00e1vamos mostrando nossos problemas de trabalho, mas as pessoas queriam o mist\u00e9rio. Mas a maioria do p\u00fablico foi favor\u00e1vel e deu dicas aproveit\u00e1veis quanto \u00e0 ilumina\u00e7\u00e3o, \u00e0 parte sonora, etc. A gente estava testando as coisas com o p\u00fablico, e ele comentava. Uma menina se levantou na plateia e falou durante uns dez minutos. Disse que as pessoas tinham vindo ver uma obra, ver passivamente, e o que estava acontecendo exigia participa\u00e7\u00e3o, n\u00e3o era uma coisa imposta, reciprocamente imposta, de o artista dizer e o p\u00fablico ouvir, do p\u00fablico pagar e exigir que o artista fale, fa\u00e7a sua \"magia\" e tal e se submeta ao p\u00fablico que paga para ver a \"magia\", etc.<br \/>\n\u2013 Quando falo \"artes integradas\" n\u00e3o estou me referindo \u00e0 fus\u00e3o de todas as artes, mas que o artista deve lan\u00e7ar m\u00e3o de todos os recursos necess\u00e1rios, sem deixar de usar determinado recurso s\u00f3 porque ele pertence a outra \u00e1rea art\u00edstica.<br \/>\n\u2013 Tr\u00eas cr\u00edticos de revistas especializadas escreveram sobre \"Onirak\". Escreveram coisas t\u00e3o rid\u00edculas, t\u00e3o engra\u00e7adas... As pessoas t\u00eam uma coisa de seguran\u00e7a. Se entendem de est\u00e9tica, se apegam ao que sabem, se seguram nisso, querem uma est\u00e9tica eterna, mas a est\u00e9tica \u00e9 relativa. Esse neg\u00f3cio que voc\u00ea falou do D\u00e9cio Pignatari. Ele \u00e9 muito agudo nessas quest\u00f5es ... a est\u00e9tica deve ser transit\u00f3ria.<br \/>\nSMETAK &amp; WIDMER\u2026<br \/>\n\u2013 Smetak \u00e9 um indiv\u00edduo muito amplo. Acho que o que h\u00e1 de mais importante no trabalho de Smetak \u00e9 ele mesmo. H\u00e1 momentos em que voc\u00ea tem que reconhecer a import\u00e2ncia de Smetak. Em outros momentos, voc\u00ea tem de negar tudo que ele diz. Ele \u00e9 muito contradit\u00f3rio. O disco que ele acabou de gravar \u00e9 uma contradi\u00e7\u00e3o. Smetak quer organizar uma elite de indiv\u00edduos escolhidos, indiv\u00edduos de alta percep\u00e7\u00e3o, inclusive extra-sensorial, para estudar. E agora parte para o oposto, faz um disco, se lan\u00e7a no consumo\u2026<br \/>\n\u2013 Voc\u00eas criticam muito Widmer, acham que o que ele faz j\u00e1 foi feito h\u00e1 vinte anos, acham que Widmer n\u00e3o interessa, etc. Eu gostaria que voc\u00eas falassem essas coisas pra ele, isso de vanguarda estabelecida. Eu queria que voc\u00eas conversassem com ele. Eu converso muito com Widmer, discuto com ele. Quando fa\u00e7o um trabalho, mostro a ele, que me mostra os dele. E a gente tem discutido isso. Aceito a cr\u00edtica no fundamental. N\u00e3o posso negar que esses elementos j\u00e1 s\u00e3o comuns, e at\u00e9 convencionais. Concordo\u2026 mas tamb\u00e9m n\u00e3o tenho condi\u00e7\u00e3o de me improvisar de cr\u00edtico. Widmer \u00e9 um grande m\u00fasico, tem muito talento, muita sensibilidade, e \u00e9 um cara aberto. \u00c9 uma pessoa humana valiosa. Eu falo pra ele: \"mas, Widmer, pra que o tema, sempre o tema?\" E ele: \"n\u00e3o consigo me expressar sem o tema, \u00e9 uma coisa que est\u00e1 dentro de mim, se tiro o tema; n\u00e3o me expresso sinceramente\". \u00c9 dif\u00edcil\u2026<br \/>\nGRAND-FINALE...<br \/>\n\u2013 Bom, \u00a0 gente, \u00a0 agora \u00a0 eu \u00a0 tenho\u00a0 que\u00a0 me picar\u2026",
+    "entities":"Rufo Herrera Onirak",
+    "collections":"codigo01",
+    "related_objects":"codigo01_0016"
+  },
+  "28":{
+    "idno":"codigo01_0022",
+    "object_id":"28",
+    "type_id":"Image",
+    "display_label":"[BLANK]",
+    "description":"na grava\u00e7\u00e3o de leibowitz<br \/>\nna mesma \u00e9poca em que ouvia<br \/>\no \"roteiro de um bo\u00eamio\"<br \/>\n(\u00e1lbum com 4 discos em 78 rota\u00e7\u00f5es<br \/>\nfase pr\u00e9-LP)<br \/>\nde lupic\u00ednio rodrigues<br \/>\nagora \u00e9 quase imposs\u00edvel ouv\u00ed-los:<br \/>\ndo\u00a0quarteto,\u00a0em 20 anos,<br \/>\ns\u00f3 houve duas grava\u00e7\u00f5es<br \/>\na de leibowitz e a de craft<br \/>\n(ambas esgotadas)<br \/>\ne ningu\u00e9m reeditou o roteiro de lupic\u00ednio<br \/><br \/>\nna voz mansa de lupi<br \/>\num expressionismo contido<br \/>\nquase falado<br \/>\nisom\u00f3rfico<br \/>\num<br \/>\nso<br \/>\nlu<br \/>\n\u00e7o<br \/>\ncortou sua voz<br \/>\nn\u00e3o lhe deixou fa<br \/>\nlar<br \/>\ntendo ouvido\u00a0<br \/>\num m\u00ednimo de webern\u00a0<br \/>\ncaetano entendeu tudo\u00a0<br \/>\ne fundindo o imposs\u00edvel\u00a0<br \/>\nwebernizou lupic\u00ednio<br \/>\nou lupicinou webern<br \/>\nna maravilhosa mise-en-musique<br \/>\nou releitura po\u00e9tico-musical<br \/>\nque fez<br \/>\nde \"dias dias dias\"<br \/>\ndo\u00a0poetamenos<br \/>\nraio x entre mentes<br \/><br \/>\nentrementes\u00a0<br \/>\njo\u00e3o<br \/>\nchegou<br \/><br \/>\n\"basta comparar os sons do sax-tenor de stan<br \/>\ncom o som vocal de jo\u00e3o para notar o paralelo.<br \/>\no ar se move sem esfor\u00e7o pela palheta, em um caso,<br \/>\ne pelas cordas vocais, no outro. \u00e9 como se o ar<br \/>\nn\u00e3o fosse impelido mais do que o suficiente para fluir.<br \/>\ntal aproxima\u00e7\u00e3o pessoal exige que o instrumentista possua<br \/>\nseguran\u00e7a soberba e controle absoluto de seu instrumento.<br \/>\nstan e jo\u00e3o n\u00e3o cometem enganos nesse ponto.\" (gene lees)<br \/><br \/>\ns\u00f3 que jo\u00e3o \u00e9 mais cool do que o cool.\u00a0<br \/>\nstan getz, perto dele, \u00e9 barroco.<br \/><br \/>\nwebern deu \u00e0 m\u00fasica erudita",
+    "entities":"Augusto de Campos",
+    "collections":"codigo01",
+    "related_objects":"codigo01_0020"
+  },
+  "29":{
+    "idno":"codigo02_0001",
+    "object_id":"29",
+    "type_id":"Image",
+    "display_label":"poema cygnus",
+    "entities":"Erthos Albino de Souza",
+    "collections":"codigo02"
+  },
+  "31":{
+    "idno":"codigo02_0003",
+    "object_id":"31",
+    "type_id":"Image",
+    "display_label":"jos\u00e9 lino gr\u00fcnewald",
+    "description":"- <strong>x<\/strong> +<br \/>\n? <strong>x<\/strong> !<br \/>\ns <strong>x<\/strong> $<br \/>\n0 <strong>x<\/strong> %<br \/>\n\u2193 <strong>x<\/strong> \u2191<br \/>\nx <strong>x<\/strong> X",
+    "entities":"Jos\u00e9 Lino Grunewald",
+    "collections":"codigo02"
+  },
+  "32":{
+    "idno":"codigo02_0004",
+    "object_id":"32",
+    "type_id":"Image",
+    "display_label":"LUZAZUL",
+    "description":"<br \/>\nhector olea<br \/>\nLUZAZUL<br \/>\nlo que sin evidencia la palabra muda<br \/>\nALGO TINTACTOTACTO<br \/>\nMERETRISTE CASTANA<br \/>\nCABELLEZA TRENZADA<br \/>\nCAIDA HASTA LOS HOMBRES<br \/>\nPROSTITODA LA LUZ DE UNA TRISTAZA<br \/>\nSOMBRAHEMBRA AGUA<br \/>\nlo que tras del espejo la realidad cuelga",
+    "entities":"Hector Olea",
+    "collections":"codigo02"
+  },
+  "33":{
+    "idno":"codigo02_0005",
+    "object_id":"33",
+    "type_id":"Image",
+    "display_label":"Incipit",
+    "description":"<br \/>\n\u2013 Cansa-se. Signor, da vida dos signos,<br \/>\nembora n\u00e3o haja outra.<br \/>\nO M\u00edstico Quente, Sutra II, 5-a<br \/><br \/>\n\u2013 A criou a palavra elefante e todos os elefantes come\u00e7aram a desaparecer, desde a esp\u00e9cie que cheira com as orelhas at\u00e9 a que trepa em posi\u00e7\u00e3o ginecol\u00f3gica. A encerebrou a ess\u00eancia dos elefantes e no lugar deles come\u00e7aram a aparecer outros objetos.<br \/>\n\u2013 Que objetos?<br \/>\n\u2013 Cadeiras.<br \/>\n\u2013 Palavras cadeiras?<br \/>\n\u2013 Ambas.<br \/><br \/>\n\u2013 A criou a palavra amor e todos os amores come\u00e7aram a desaparecer, desde o que se degusta rindo com a nova forma nasi at\u00e9 o que se pirlipica com o gomo meio aberto. A encerebrou a ess\u00eancia dos amores e em seu lugar come\u00e7aram a aparecer outras coisas.<br \/>\n\u2013 Que coisas?<br \/>\n\u2013 A emo\u00e7\u00e3o indireta e as m\u00e1quinas de pipoca pl\u00e1stica.<br \/><br \/>\n\u2013 A criou a palavra p\u00e1ssaro e todos os p\u00e1ssaros come\u00e7aram a desaparecer, desde os que mudam de plumagem durante o voo at\u00e9 os que as mulheres fazem de terceiro seio. A encerebrou a ess\u00eancia dos p\u00e1ssaros e no lugar deles come\u00e7aram a aparecer outros p\u00e1ssaros.<br \/>\n\u2013 Outros?<br \/>\n\u2013 Sim: os que n\u00e3o voam apenas pelo c\u00e9u.<br \/><br \/>\n\u2013 A criou e<br \/><br \/>\nsp mar\u00e7o 75",
+    "entities":"D\u00e9cio Pignatari",
+    "collections":"codigo02"
+  },
+  "34":{
+    "idno":"codigo02_0006",
+    "object_id":"34",
+    "type_id":"Image",
+    "display_label":"BLAKE BLAKA BLAIA BAHIA BLHIA",
+    "entities":"Antonio Ris\u00e9rio Filho;Caetano Veloso",
+    "collections":"codigo02",
+    "related_objects":"codigo02_0007"
+  },
+  "35":{
+    "idno":"codigo02_0007",
+    "object_id":"35",
+    "type_id":"Image",
+    "display_label":"BLAKE BLAKA BLAIA BAHIA BLHIA",
+    "description":"<br \/>\nQue o homem use a pele do le\u00e3o e a mulher o pelo do carneiro.<br \/>\nAquele que deseja mas n\u00e3o age, produz pestil\u00eancia.<br \/>\nNenhum p\u00e1ssaro voa alto demais, se voa com as pr\u00f3prias asas.<br \/>\nO rugir dos le\u00f5es, o uivar dos lobos, a f\u00faria da tempestade no mar, e a espada<br \/>\ndestruidora s\u00e3o por\u00e7\u00f5es de eternidade demasiado grandes para o olho do homem.<br \/>\nA abelha trabalha: n\u00e3o tem tempo para m\u00e1goas.<br \/>\nA eternidade est\u00e1 enamorada das obras do tempo.<br \/>\nA macieira nunca pergunta \u00e0 faia como haver\u00e1 de crescer; nem o<br \/>\nle\u00e3o ao cavalo como apanhar\u00e1 sua presa.<br \/>\nAquele cuja face n\u00e3o luz nunca ser\u00e1 uma estrela.<br \/>\nErguem-se pris\u00f5es com as pedras da lei, bord\u00e9is com os tijolos da religi\u00e3o.<br \/>\nNo tempo de semear, aprende; na colheita, ensina; no inverno, goza.<br \/>\nA raposa culpa a armadilha, n\u00e3o a si mesma.<br \/>\nO rato, o calunga, a raposa, o coelho, espreitam ra\u00edzes; o le\u00e3o, o tigre, o cavalo, o<br \/>\nelefante, espreitam frutos.<br \/>\nA vergonha \u00e9 a capa do orgulho.<br \/>\nOs tigres da ira s\u00e3o mais s\u00e1bios que os cavalos da instru\u00e7\u00e3o.<br \/>\nO p\u00e1ssaro \u2014 ninho, a aranha \u2014 teia, o homem \u2014 amizade.<br \/>\nA cabe\u00e7a, Sublime; o cora\u00e7\u00e3o, Pathos; os genitais, Beleza; p\u00e9s &amp; m\u00e3os, Propor\u00e7\u00e3o.<br \/>\nO verme ferido perdoa o arado.<br \/>\nPreces n\u00e3o lavram! Louvores n\u00e3o ceifam!<br \/>\nSe outros n\u00e3o fossem tolos, n\u00f3s ser\u00edamos.<br \/>\nA pompa do pav\u00e3o \u00e9 a gl\u00f3ria de Deus.<br \/>\nA lasc\u00edvia do bode \u00e9 a bondade de Deus.<br \/>\nA ira do le\u00e3o \u00e9 a sabedoria de Deus.<br \/>\nA nudez da mulher \u00e9 a obra de Deus.<br \/>\nTristeza em excesso, ri. Alegria em excesso, chora.<br \/>\nOs olhos do fogo, as narinas do ar, a boca da \u00e1gua, a barba da terra.",
+    "entities":"Antonio Ris\u00e9rio Filho;Caetano Veloso",
+    "collections":"codigo02",
+    "related_objects":"codigo02_0006"
+  },
+  "36":{
+    "idno":"codigo02_0008",
+    "object_id":"36",
+    "type_id":"Image",
+    "display_label":"gr\u00e9cia tropigal\n\/par\u00e1fone de alkaios (620 a.c.)",
+    "description":"<br \/>\n\u00f3<br \/>\ncoroada i\u00f3plok (fig.) ant\u00edlope<br \/>\nde violetas<br \/><br \/>\nsorriso-mel agna (fig.) alga<br \/><br \/>\nsagrada mellikhomeide (fig.) melicanora<br \/><br \/>\nSafo Sappho (fig.) gal<br \/><br \/>\n(fig.)<br \/><br \/>\nharoldo de campos<br \/>\n28 set 74",
+    "entities":"Haroldo de Campos",
+    "collections":"codigo02"
+  },
+  "37":{
+    "idno":"codigo02_0009",
+    "object_id":"37",
+    "type_id":"Image",
+    "display_label":"INTRADU\u00c7\u00c3O",
+    "description":"nota:\u00a0<br \/><br \/>\ntradu\u00e7\u00e3o de duas linhas<br \/>\ndo trovador proven\u00e7al<br \/>\nbernart de ventadorn<br \/>\ncitadas por ezra pound (canto XX)<br \/>\nsegundo um m\u00e9todo entrevisto<br \/>\npor d\u00e9cio pignatari<br \/>\ncomo sempre<br \/>\n\u201cil miglior fabbro\u201d<br \/>\naugusto de campos<br \/><br \/><br \/>\nsi no'us vei domna don plus mi cal,negus vezer mon bel pensar no val\u00a0<br \/>\nse eu n\u00e3o vejo a mulher que eu mais desejo nada que eu veja vale o que eu n\u00e3o vejo",
+    "entities":"Augusto de Campos",
+    "collections":"codigo02"
+  },
+  "39":{
+    "idno":"codigo02_0010",
+    "object_id":"39",
+    "type_id":"Image",
+    "display_label":"zenpriapolo",
+    "description":"d\u00e9cio pignatari<br \/>\nbelfos-valdevinos junho-agosto<br \/>\n1974",
+    "entities":"D\u00e9cio Pignatari",
+    "collections":"codigo02",
+    "related_objects":"codigo02_0011"
+  },
+  "40":{
+    "idno":"codigo02_0011",
+    "object_id":"40",
+    "type_id":"Image",
+    "display_label":".",
+    "description":"E O M",
+    "entities":"D\u00e9cio Pignatari",
+    "collections":"codigo02",
+    "related_objects":"codigo02_0010"
+  },
+  "68":{
+    "idno":"codigo01_0023",
+    "object_id":"68",
+    "type_id":"Image",
+    "display_label":".",
+    "description":"<br \/>\na dimens\u00e3o f\u00edsica da m\u00fasica popular.<br \/>\no dif\u00edcil no f\u00e1cil.<br \/>\nnon multa sed multum.<br \/>\nbagatelas.<br \/>\ninfrasegundos de superinforma\u00e7\u00e3o.<br \/>\nsabedoria que se perdeu cornos p\u00f3steros<br \/>\nesses chatos maravilhosos<br \/>\nde stockhausen a cage.<br \/><br \/>\n\"pela primeira vez em sua hist\u00f3ria<br \/>\na m\u00fasica se tornou t\u00e3o despojada e transparente<br \/>\nque os seus elementos individuais pareciam flutuar<br \/>\nisolados<br \/>\nentre apavorantes bolsas de ar de sil\u00eancio total\" (krenek)<br \/><br \/>\n\u201cyou see, when i was a kid i used to save up for a month,\u00a0<br \/>\nso i could get an r\u00a0&amp;\u00a0b \u00e1lbum and, the same day, the complete works\u00a0<br \/>\nof anton webern. maybe that means something. maybe that tells you\u00a0<br \/>\nsomething about my music.\" (frank zappa \u2014 anos 60)<br \/><br \/>\n(fig.)<br \/>\numa melodia cont\u00ednua<br \/>\ndeslocada de um instrumento para outro mudando constantemente sua cor<br \/><br \/>\nem 37 anos de vida criativa (1908-1945)<br \/>\n31 obras<br \/>\ndura\u00e7\u00e3o m\u00e9dia: 5 minutos<br \/>\na mais longa: 10 minutos<br \/>\na mais curta: menos de um minuto<br \/>\na obra de anton webern<br \/>\ncabe toda em 4 LPs:<br \/>\ncerca de 3 horas.<br \/><br \/>\njo\u00e3o gilberto: 7 LPs (piazzolla tem 40)<br \/><br \/>\ntoda a obra de webern\u00a0<br \/>\npoderia ser executada<br \/>\nnum \u00fanico concerto<br \/>\nmas tanta compress\u00e3o informativa<br \/>\nseria ainda hoje<br \/>\numa bomba-s\u00f4nica para a maioria dos ouvintes<br \/>\nmegatons de informa\u00e7\u00e3o sonora<br \/>\nmegantons<br \/><br \/>\n\"porque eu nao sou um c\u00e3o\u2026\u201d<br \/>\n(webern, 1912 \u2013 j\u00e1 tinha feito as 6 pe\u00e7as para grande orquestra<br \/>\nopus 6, pr\u00e9-melodiadetimbres)<br \/><br \/>\n\"ao piano ele fazia com que as maravilhas matem\u00e1ticas\u00a0<br \/>\ndesaparecessem: em seu lugar ele tornava aparentes\u00a0<br \/>\napenas as puras rela\u00e7\u00f5es de som\" (robert craft)<br \/><br \/>\n\"eu n\u00e3o sei como vou chegar at\u00e9 o fim do m\u00eas\" (carta de 26-9-26)<br \/><br \/>\n\"ernst krenek disse que quando webern conduzia uma sinfonia de haydn\u00a0<br \/>\nele a fazia soar de tal modo que a gente sentia que a tinha escutado\u00a0<br \/>\npela primeira vez. webern parece ter sido um maestro extremamente\u00a0<br \/>\nsens\u00edvel, fanaticamente rigoroso, mas paciente. seu horror f\u00edsico\u00a0<br \/>\ndo ru\u00eddo fazia-o relutante at\u00e9 de come\u00e7ar a ensaiar, sabendo de antem\u00e3o<br \/>\nque o volume, a grossura, a m\u00e1 entona\u00e7\u00e3o, a express\u00e3o falsa e a<br \/>\narticula\u00e7\u00e3o errada seriam uma tortura.\u201d (robert craft)",
+    "entities":"Augusto de Campos",
+    "collections":"codigo01",
+    "related_objects":"codigo01_0020"
+  },
+  "69":{
+    "idno":"codigo01_0024",
+    "object_id":"69",
+    "type_id":"Image",
+    "display_label":".",
+    "description":"<br \/>\n\u201cno momento n\u00e3o tenho um \u00fanico aluno\u201d (webern, carta de 20-4-38)<br \/><br \/>\njo\u00e3o gilberto emprega pelo menos uns 5 AA \u2013<br \/>\nme disse tuz\u00e9 \u2013<br \/>\ncada um \u00e9 um som diferente<br \/><br \/>\n\u201cno momento s\u00f3 tenho um aluno\u201d (webern, carta de 29-4-38)<br \/><br \/>\n\u201cansermet diz que ter visto e ouvido webern tocar\u00a0uma \u00fanica nota<br \/>\nao piano era observar um homem em ato de devo\u00e7\u00e3o\" (robert craft)<br \/><br \/>\n\"se ao menos eu pudesse ser entendido um pouco!\u201d (webern, carta de 20-10-39).<br \/><br \/>\n\"pouco impressionado<br \/>\nante a audi\u00e7\u00e3o de daphnis et chloe (de ravel) disse webern<br \/>\na ansermet (\u00fanico coment\u00e1rio):<br \/>\npor que ele usa<br \/>\nquatro<br \/>\nde cada instrumento de sopro?<br \/>\nbeethoven usou apenas dois<br \/>\ne \u00e9 t\u00e3o forte (es ist so gross).\u201d (robert craft)<br \/><br \/>\n\"n\u00e3o lhe parece que a primeira rea\u00e7\u00e3o das pessoas\u00a0<br \/>\ndiante desta partitura (varia\u00e7\u00f5es para orquestra opus 30) ser\u00e1:<br \/>\n\u201cbem, n\u00e3o h\u00e1 nada dentro dela\"? (carta a willi reich, 3-5-41)<br \/><br \/>\n\"viver \u00e9 defender uma forma\" (hoelderlin citado por webern)<br \/><br \/>\n\"se ao menos tomassem algum conhecimento da minha obra\" (carta de 3-3-41)<br \/><br \/>\n\"n\u00e3o queremos repetir, deve haver sempre algo novo.\u201d (webern)<br \/><br \/>\n\"uma importante afirma\u00e7\u00e3o de schoenberg: compress\u00e3o sempre significa\u00a0<br \/>\nextens\u00e3o\" (webern)<br \/><br \/>\nwebern o incomunicativo comunicativo: nenhuma obscuridade. formas\u00a0<br \/>\nclaras e precisas. partituras limpas, l\u00edmpidas.<br \/><br \/>\n\"entendo a palavra arte como significando a faculdade de apresentar\u00a0<br \/>\num pensamento na forma a mais clara e a mais simples, isto \u00e9,\u00a0<br \/>\nna forma a mais compreens\u00edvel!\" (carta de 6-8-28)",
+    "entities":"Augusto de Campos",
+    "collections":"codigo01",
+    "related_objects":"codigo01_0020"
+  },
+  "70":{
+    "idno":"codigo01_0025",
+    "object_id":"70",
+    "type_id":"Image",
+    "display_label":".",
+    "description":"<br \/>\n\"webern \u00e9 ao mesmo tempo o mais simples<br \/>\ne o mais dif\u00edcil dos compositores:<br \/>\no mais e o menos intelectual,<br \/>\no mais f\u00e1cil de selecionar e, ainda assim,<br \/>\no mais dif\u00edcil de seguir,<br \/>\no mais esot\u00e9rico e o mais compreens\u00edvel,<br \/>\no mais cl\u00e1ssico e no entanto o mais avan\u00e7ado,<br \/>\no mais individual e pessoal, sendo ainda o mais<br \/>\ninfluente e o mais amplamente imitado.<br \/>\na simplicidade da est\u00e9tica de webern<br \/>\n\u00e9 que explica todos esses paradoxos \u2013<br \/>\na m\u00fasica de webern consiste<br \/>\nem poucas notas arranjadas<br \/>\nnum per\u00edodo de tempo extremamente curto\"<br \/>\n(eric salzman).<br \/><br \/>\n\"trabalho at\u00e9 1 hora numa pe\u00e7a pouco agrad\u00e1vel<br \/>\nfria e \u00famida<br \/>\nalgo assim como uma caverna nos dias de calor.<br \/>\ndepois do almo\u00e7o repouso no campo atr\u00e1s da casa,<br \/>\numa hora no m\u00e1ximo.<br \/>\nalgumas vezes banho com minna e as crian\u00e7as.<br \/>\ntrabalho at\u00e9 a hora do ch\u00e1,<br \/>\n\u00e0s vezes at\u00e9 mais tarde.<br \/>\ndepois das 6 horas, ordinariamente,<br \/>\npasseio no krumpengraben ou nos bosques vizinhos<br \/>\na procura de cogumelos e amoras.\"<br \/>\n(di\u00e1rio de webern, 1927)<br \/><br \/>\n\"eu gostava de procurar cogumelos e de vez em quando meu caminho<br \/>\nse cruzava com o de webern...<br \/>\n... o mestre admirava o conte\u00fado de minha cesta repleta, em que<br \/>\nhavia alguns raros e interessantes cogumelos\u2026<br \/>\n\u2026 fic\u00e1vamos contemplando as not\u00e1veis qualidades dos fungos\u2026\u201d<br \/>\n(cesar bresgen,\u00a0os \u00fa\u00edtimos dias de webern em mittersill)<br \/><br \/>\nwebern e cage?<br \/>\ncogumelos<br \/>\nsil\u00eancios<br \/><br \/>\ncage fez o sil\u00eancio falar em\u00a04'33\"<br \/>\nwebern faz ouvir<br \/>\no sil\u00eancio em suas m\u00fasicas.\u00a0<br \/><br \/>\nfe\u00e7hado-aberto, o futuro da m\u00fasica: webern in cage.<br \/><br \/>\n\"considerem quanta modera\u00e7\u00e3o \u00e9 necess\u00e1ria<br \/>\npara que algu\u00e9m se exprima com tanta brevidade.<br \/>\npode-se expandir todos os olhares num poema,<br \/>\ntodos os suspiros num romance.<br \/>\nmas exprimir um romance num simples gesto,<br \/>\numa alegria num suspiro \u2013<br \/>\numa tal concentra\u00e7\u00e3o s\u00f3 pode estar presente<br \/>\nem propor\u00e7\u00e3o a uma aus\u00eancia de autopiedade.\u201d<br \/>\n(schoenberg sobre as bagatelas)",
+    "entities":"Augusto de Campos",
+    "collections":"codigo01",
+    "related_objects":"codigo01_0020"
+  },
+  "71":{
+    "idno":"codigo01_0026",
+    "object_id":"71",
+    "type_id":"Image",
+    "display_label":".",
+    "entities":"Augusto de Campos",
+    "collections":"codigo01",
+    "related_objects":"codigo01_0020"
+  },
+  "86":{
+    "idno":"codigo03_0002",
+    "object_id":"86",
+    "type_id":"Image",
+    "display_label":"oriundo",
+    "description":"ORIUNDORIUNDO<br \/><br \/>\nlenora de barros",
+    "entities":"Lenora de Barros",
+    "collections":"codigo03"
+  },
+  "88":{
+    "idno":"codigo03_0003",
+    "object_id":"88",
+    "type_id":"Image",
+    "display_label":"poesia",
+    "description":"POESIA<br \/>\na fala do infal\u00e1vel (goethe)<br \/>\nwords set to music (dante\/pound)<br \/>\numa das artes pl\u00e1sticas (m\u00e1rio quintana)<br \/>\npermanente hesita\u00e7\u00e3o entre som e sentido (p. val\u00e9ry)<br \/>\ntudo o que meu inconsciente me grita (m\u00e1rio de andrade)<br \/>\nemo\u00e7\u00e3o recolhida em tranquilidade (wordsworth)<br \/>\n010110110010111110 (erthos albino de souza)<br \/>\nmensagem voltada para a mensagem (r. jakobson)<br \/>\nestrela que leba a deus reis e pastores (v. hugo)<br \/>\ntexto sem job e sem cliente (um publicit\u00e1rio)<br \/>\npalavras olhando apenas para si mesmas (cec\u00edlia meireles)<br \/>\na liberdade de minha linguagem (p. leminski)<br \/>\ness\u00eancias e medulas (ezra pound)<br \/>\njoy for ever (keats)<br \/>\npalavra-coisa (sartre)<br \/>\ndesign de linguagem (d. pignatari)<br \/>\na religi\u00e3o original da humanidade (novalis)<br \/>\nminha cacha\u00e7a (c. drummond de andrade)<br \/>\num fingimento deveras (f. pessoa)<br \/>\na g\u00edria do poeta (r\u00e9gis bonvicino)<br \/>\nse faz com palavras n\u00e3o com id\u00e9ias (mallarm\u00e9)<br \/>\nmiragem que em mim mira (augusto de campos)<br \/>\numa viagem ao desconhecido (maiakovski)<br \/>\naquilo que se perde na tradu\u00e7\u00e3o (robert frost)<br \/>\ndescoberta das coisas que nunca vi (oswald de andrade)<br \/>\nlinguagem em estado de pureza selvagem (ot\u00e1vio paz)<br \/>\nn\u00e3o \u00e9 literatura (ezra pound)",
+    "entities":"Paulo Leminski",
+    "collections":"codigo03"
+  }
+}
